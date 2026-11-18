@@ -1,0 +1,1 @@
+import STAT4052BayesTheorem.Basic
